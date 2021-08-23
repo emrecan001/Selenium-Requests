@@ -1,6 +1,6 @@
 from selenium.webdriver import (
     Firefox as _Firefox, Chrome as _Chrome, Ie as _Ie, Edge as _Edge, Opera as _Opera, Safari as _Safari,
-    BlackBerry as _BlackBerry, PhantomJS as _PhantomJS, Android as _Android, Remote as _Remote)
+    BlackBerry as _BlackBerry, Android as _Android, Remote as _Remote)
 
 from seleniumrequests.request import RequestsSessionMixin
 
